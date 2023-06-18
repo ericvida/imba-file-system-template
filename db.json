@@ -1,3 +1,8 @@
 {
-  "number": "20"
+    "state": {
+        "words": [
+            "hola",
+            "mundo"
+        ]
+    }
 }
